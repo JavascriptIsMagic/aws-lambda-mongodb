@@ -1,0 +1,30 @@
+{
+  "name": "aws-lambda-mongodb",
+  "version": "0.0.1",
+  "description": "Library designed to create lambdas that provide IAM-like Policy enforced, fine-grained access to mongodb databases and json documents using json schema validation of mongo \"actions\"",
+  "main": "lib/aws-lambda-mongodb.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascriptismagic/aws-lambda-mongodb.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "aws-lambda",
+    "mongo",
+    "mongodb",
+    "iam",
+    "aws-iam",
+    "policy",
+    "permissions"
+  ],
+  "author": "unicorn.coffee <javascriptismagic@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javascriptismagic/aws-lambda-mongodb/issues"
+  },
+  "homepage": "https://github.com/javascriptismagic/aws-lambda-mongodb#readme"
+}
