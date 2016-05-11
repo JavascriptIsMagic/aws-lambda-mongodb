@@ -1,0 +1,8 @@
+# replace ALL of these with your own credentials
+module.exports = {
+  credentials:
+    deployment:
+      accessKeyId: 'A4CC57E241AB4FE9CDBF'
+      secretAccessKey: 'QiJ7Cg+m9N0cRKt5XMDFqeu8MGtnGTsRS908JxHr'
+      region: 'us-east-1'
+}

@@ -26,5 +26,11 @@
   "bugs": {
     "url": "https://github.com/javascriptismagic/aws-lambda-mongodb/issues"
   },
-  "homepage": "https://github.com/javascriptismagic/aws-lambda-mongodb#readme"
+  "homepage": "https://github.com/javascriptismagic/aws-lambda-mongodb#readme",
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.x",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "webpack": "^1.13.0"
+  }
 }
